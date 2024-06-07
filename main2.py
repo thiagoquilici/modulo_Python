@@ -30,7 +30,7 @@ if __name__ == '__main__':
                 h = int(input('Altura do trapézio: '))
                 continue
             case '5':
-                print('Progrma encerrado.')
+                print('Programa encerrado.')
                 break
             case _:
                 print('Opção inválida. Tente novamente.')
